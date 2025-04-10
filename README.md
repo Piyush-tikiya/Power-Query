@@ -1,7 +1,7 @@
 # Power-Query
 Utilized Power Query for data cleaning, sorting, adding new columns with specified data types, and merging datasets.
 ## Powerquery Result
-<a href = "https://github.com/Piyush-tikiya/Excel-Projects/blob/main/Bike%20sale%20dashboard.png"> Dashboard View </a>
+<a href = "https://github.com/Piyush-tikiya/Power-Query/blob/main/Booking_data.png"> PowerQuery Clean Dataset View </a>
 
 
 
