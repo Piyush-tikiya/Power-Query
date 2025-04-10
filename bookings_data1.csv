@@ -1,0 +1,63 @@
+date,property_id,property_name,property_type,city|city_code,room_id,successful_bookings,capacity
+2022-06-01,17562,Atliq Bay,    Luxury,Mumbai|+91 22,RT2,30,30
+2022-06-01,16563,Atliq Palace,Business,Delhi|+91 11,RT1,41,41
+2022-06-01,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT1,20,20
+2022-06-01,17562,Atliq bay,Luxury,Mumbai|+91 22,RT3,4,27
+2022-06-01,16563,Atliq Palace,Business,Delhi|+91 11,RT3,7,20
+2022-06-01,16563,Atliq Palace,Business,Delhi|+91 11,RT4,3,18
+2022-06-01,16563,Atliq Palace,      Business,Delhi|+91 11,RT2,9,38
+2022-06-03,16563,Atliq Palace,Business,Delhi|+91 11,RT4,5,18
+2022-06-03,16563,Atliq Palace,Business,Delhi|+91 11,RT2,12,38
+2022-06-03,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT2,30,30
+2022-06-03,16563,Atliq Palace,Business,Delhi|+91 11,RT1,15,41
+2022-06-03,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT1,7,20
+2022-06-03,17562,Atliq bay,            Luxury,Mumbai|+91 22,RT3,27,27
+2022-06-03,16563,Atliq Palace,Business,Delhi|+91 11,RT3,9,20
+2022-06-03,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT4,2,6
+2022-06-06,16563,Atliq Palace,Business,Delhi|+91 11,RT2,9,38
+2022-06-06,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT2,4,30
+2022-06-06,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT1,2,20
+2022-06-06,16563,Atliq Palace,      Business,Delhi|+91 11,RT1,9,41
+2022-06-06,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT3,4,27
+2022-06-06,16563,Atliq Palace,Business,Delhi|+91 11,RT3,4,20
+2022-06-06,16563,Atliq Palace,Business,Delhi|+91 11,RT4,5,18
+2022-06-06,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT4,1,6
+2022-06-09,16563,Atliq Palace,Business,Delhi|+91 11,RT2,9,38
+2022-06-09,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT2,30,30
+2022-06-09,16563,Atliq Palace,Business,Delhi|+91 11,RT1,12,41
+2022-06-09,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT1,4,20
+2022-06-09,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT3,27,27
+2022-06-09,16563,Atliq Palace,Business,Delhi|+91 11,RT3,5,20
+2022-06-09,16563,Atliq Palace,Business,Delhi|+91 11,RT4,4,18
+2022-06-09,17562,Atliq bay,           Luxury,Mumbai|+91 22,RT4,6,6
+2022-06-13,16563,Atliq Palace,Business,Delhi|+91 11,RT2,9,38
+2022-06-13,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT2,6,30
+2022-06-13,16563,Atliq Palace,       Business,Delhi|+91 11,RT1,12,41
+2022-06-13,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT1,1,20
+2022-06-13,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT3,27,27
+2022-06-13,16563,Atliq Palace,Business,Delhi|+91 11,RT3,6,20
+2022-06-13,16563,Atliq Palace,Business,Delhi|+91 11,RT4,8,18
+2022-06-17,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT2,4,30
+2022-06-17,16563,Atliq Palace,Business,Delhi|+91 11,RT1,41,41
+2022-06-17,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT1,5,20
+2022-06-17,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT3,27,27
+2022-06-17,16563,Atliq Palace,Business,Delhi|+91 11,RT2,38,38
+2022-06-17,16563,Atliq Palace,Business,Delhi|+91 11,RT3,20,20
+2022-06-17,16563,Atliq Palace,             Business,Delhi|+91 11,RT4,18,18
+2022-06-17,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT4,1,6
+2022-06-20,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT3,3,27
+2022-06-20,16563,Atliq Palace,Business,Delhi|+91 11,RT2,38,38
+2022-06-20,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT2,30,30
+2022-06-20,16563,Atliq Palace,Business,Delhi|+91 11,RT1,41,41
+2022-06-20,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT1,4,20
+2022-06-20,16563,Atliq Palace,Business,Delhi|+91 11,RT3,6,20
+2022-06-20,16563,Atliq Palace,Business,Delhi|+91 11,RT4,5,18
+2022-06-20,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT4,6,6
+2022-06-22,16563,Atliq Palace,   Business,Delhi|+91 11,RT2,38,38
+2022-06-22,17562,Atliq bay,Luxury,Mumbai|+91 22,RT2,30,30
+2022-06-22,16563,Atliq Palace,Business,Delhi|+91 11,RT1,25,41
+2022-06-22,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT1,3,20
+2022-06-22,17562,Atliq Bay,Luxury,Mumbai|+91 22,RT3,27,27
+2022-06-22,16563,Atliq Palace,          Business,Delhi|+91 11,RT3,20,20
+2022-06-22,16563,Atliq Palace,Business,Delhi|+91 11,RT4,18,18
+2022-06-22,17562,Atliq bay,Luxury,Mumbai|+91 22,RT4,1,6
