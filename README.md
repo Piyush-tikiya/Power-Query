@@ -3,10 +3,7 @@ Utilized Power Query for data cleaning, sorting, adding new columns with specifi
 ## Powerquery Result
 <a href = "https://github.com/Piyush-tikiya/Power-Query/blob/main/Booking_data.png"> PowerQuery Clean Dataset View </a>
 
-
-
-
-complete this assignment
+Situation
 . Open a new Excel file and load the two provided CSV files using the "From Text/CSV" option. Then, open Power Query.
 
 2. Change the data type of the "property_id" column to "text".
@@ -19,12 +16,14 @@ complete this assignment
 
    separate these two entities and rename the resulting columns accordingly.
 
-6. Create a new conditional column called "Availability Status". If "successful_bookings" equals "capacity", set the value to "sold out"; otherwise, set it to "vacant".
+   Action
 
-7. Create a new custom column called "occ%", which represents the ratio of successful_bookings to capacity. Change the data type to a percentage format.
+7. Create a new conditional column called "Availability Status". If "successful_bookings" equals "capacity", set the value to "sold out"; otherwise, set it to "vacant".
 
-8. Merge the two tables, "bookings_data" and "rooms_data", on the "room_id" column to add the "room_class" column to the "bookings_data" table.
+8. Create a new custom column called "occ%", which represents the ratio of successful_bookings to capacity. Change the data type to a percentage format.
+
+9. Merge the two tables, "bookings_data" and "rooms_data", on the "room_id" column to add the "room_class" column to the "bookings_data" table.
 
    Reorder the columns so that "room_class" is next to "room_id".
 
-9. Extract the month_name.
+10. Extract the month_name.
